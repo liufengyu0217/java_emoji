@@ -1,3 +1,5 @@
+package com.yflower.java_emoji;
+
 import java.util.List;
 import java.util.stream.Collectors;
 

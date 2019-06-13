@@ -1,3 +1,5 @@
+package com.yflower.java_emoji;
+
 import java.io.UnsupportedEncodingException;
 
 /**
