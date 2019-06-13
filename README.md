@@ -8,7 +8,7 @@ java emoji unicode convert,emoji filter
 使用的emoji列表地址 https://unicode.org/Public/emoji/12.0/emoji-data.txt
 
 使用前提  
-    ***resources文件夹中存储了emoji文件的列表，需要将这个导入到项目中***
+    ***`/src/main/resources/emoji-data.txt`存储了emoji文件的列表，需要将这个导入到项目中***
 
 功能:  
 1.emoji unicode字符串转化为java识别的utf8字符串 `Emoji.unicodeToUTF8()`  
